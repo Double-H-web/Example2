@@ -41,6 +41,7 @@ nav {
     display: block;
     padding: 1em 0;
     text-align: center;
+    width: 7em;
 }
 
 .ddc a:hover {
